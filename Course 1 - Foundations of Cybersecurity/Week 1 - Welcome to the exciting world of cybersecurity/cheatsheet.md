@@ -672,7 +672,7 @@ Terms and definitions from the certificate
 
 **Python Standard Library:** An extensive collection of Python code that often comes packaged with Python
 
-**Q
+### Q
 
 **Query:** A request for data from a database table or a combination of tables
 
@@ -962,7 +962,7 @@ Terms and definitions from the certificate
 
 **Worm:** Malware that can duplicate and spread itself across systems on its own
 
-**Y
+### Y
 
 **YARA-L:** A computer language used to create rules for searching through ingested log data
 
