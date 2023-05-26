@@ -20,4 +20,4 @@ By completing the eight courses in this certificate program, you'll prepare for 
 
 8. [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/learn/prepare-for-cybersecurity-jobs/home/week/1) 
 
-![Google Cybersecurity Certificate](C:\Users\USER\coursera\Google-Cybersecurity\Course 1 - Foundations of Cybersecurity\Week 1 - Welcome to the exciting world of cybersecurity\Google Cybersecurity Certificate overview.png)
+![Google Cybersecurity Certificate](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/wUDPfuuARCehSWG8hh8yGQ_391e3fca589640ff865568380c1165f1_S33G003-S33G010.png?expiry=1685232000000&hmac=IcfMHSTmUoUWb1LNcWaeDfbiwkL9pCuufPLLdLsQxLk)
