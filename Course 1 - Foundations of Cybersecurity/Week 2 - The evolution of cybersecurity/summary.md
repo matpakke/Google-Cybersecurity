@@ -70,7 +70,7 @@ National Institute of Standards and Technology’s (NIST’s) Risk Management Fr
 
 The Risk Management Framework provides a process that integrates security, privacy, and cyber supply chain risk management activities into the system development life cycle. The risk-based approach to control selection and specification considers effectiveness, efficiency, and constraints due to applicable laws, directives, Executive Orders, policies, standards, or regulations. Managing organizational risk is paramount to effective information security and privacy programs; the RMF approach can be applied to new and legacy systems, any type of system or technology (e.g., IoT, control systems), and within any type of organization regardless of size or sector.
 
-<img src="https://csrc.nist.gov/CSRC/media/Projects/risk-management/images-media/RMF%20Logos/PNG%20Format/NIST%20RMF%20Graphc.png" width="40%">
+<img src="https://csrc.nist.gov/CSRC/media/Projects/risk-management/images-media/RMF%20Logos/PNG%20Format/NIST%20RMF%20Graphc.png" width="40%" justify-content= 'center'>
 
 | RMF Step | Description |
 | ----------- | ----------- |
