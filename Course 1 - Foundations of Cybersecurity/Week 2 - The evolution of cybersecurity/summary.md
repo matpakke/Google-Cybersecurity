@@ -170,7 +170,7 @@ It’s necessary to create an audit checklist before conducting an audit. A chec
 
 ### Identify the scope of the audit
 
-* The audit should:
+The audit should:
 
 - List assets that will be assessed (e.g., firewalls are configured correctly, PII is secure, physical assets are locked, etc.) 
 
