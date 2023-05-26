@@ -51,6 +51,8 @@ To learn more about controls, particularly those used to protect health-related 
 # Use the CIA triad to protect organizations
 Previously, you were introduced to the confidentiality, integrity, and availability (CIA) triad and how it helps organizations consider and mitigate risk. In this reading, you will learn how cybersecurity analysts use the CIA triad in the workplace. 
 
+![CIA triad](https://www.i-scoop.eu/wp-content/uploads/2022/04/Cybersecurity-the-infosec-CIA-Triad.jpg.webp)
+
 ## The CIA triad for analysts
 The CIA triad is a model that helps inform how organizations consider risk when setting up systems and security policies. It is made up of three elements that cybersecurity analysts and organizations work toward upholding: confidentiality, integrity, and availability. Maintaining an acceptable level of risk and ensuring systems and policies are designed with these elements in mind helps establish a successful security posture, which refers to an organization’s ability to manage its defense of critical assets and data and react to change. 
 
