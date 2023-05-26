@@ -82,6 +82,10 @@ The Risk Management Framework provides a process that integrates security, priva
 | Authorize | Senior official makes a risk-based decision to authorize the system (to operate) |
 | Monitor | Continuously monitor control implementation and risks to the system |
 
+[NIST 800-53 Revision 5](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf)
+
+---
+
 # OWASP security principles
 
 Previously, you learned that cybersecurity analysts help keep data safe and reduce risk for an organization by using a variety of security frameworks, controls, and security principles. In this reading, you will learn about more Open Web Application Security Project, recently renamed Open Worldwide Application Security Project® (OWASP), security principles and how entry-level analysts use them. 
