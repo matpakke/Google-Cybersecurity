@@ -40,18 +40,18 @@ Begin your journey into cybersecurity! You'll explore the cybersecurity field, a
 
 ## Week 2: The evolution of cybersecurity
 
-[Five icons show the course followed by the four weeks sequentially from left to right with week 2 highlighted.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/QlZPMeJlTWG5bPoiB65HXQ_ab434e3472c14816ab45b48e82a231f1_FoundationsCyber-R-001-2.png?expiry=1685232000000&hmac=jf_autvalWNopkMLlKmlqVcKNeObMjUrWgOeXGWYeeQ)
+![Five icons show the course followed by the four weeks sequentially from left to right with week 2 highlighted.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/QlZPMeJlTWG5bPoiB65HXQ_ab434e3472c14816ab45b48e82a231f1_FoundationsCyber-R-001-2.png?expiry=1685232000000&hmac=jf_autvalWNopkMLlKmlqVcKNeObMjUrWgOeXGWYeeQ)
 
 You will explore how cybersecurity threats have appeared and evolved alongside the adoption of computers. You will also understand how past and present cyber attacks have influenced the development of the security field. In addition, you'll get an overview of the eight security domains.
 
 ## Week 3: Protect against threats, risks, and vulnerabilities
 
-[Five icons show the course followed by the four weeks sequentially from left to right with week 3 highlighted.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/_UKSkqdPTb-Xd9B8smE8dg_d4999b46ab0344cdb1edbdc83490aef1_FoundationsCyber-R-001-3.png?expiry=1685232000000&hmac=RqEPicpzT7NVY8M1ULdRPBqUpy19yOs8x9I3KcViTJ4)
+![Five icons show the course followed by the four weeks sequentially from left to right with week 3 highlighted.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/_UKSkqdPTb-Xd9B8smE8dg_d4999b46ab0344cdb1edbdc83490aef1_FoundationsCyber-R-001-3.png?expiry=1685232000000&hmac=RqEPicpzT7NVY8M1ULdRPBqUpy19yOs8x9I3KcViTJ4)
 
 You will learn about security frameworks and controls, which are used to mitigate organizational risk. You'll cover principles of the CIA triad and various National Institute of Standards and Technology (NIST) frameworks. In addition, you'll explore security ethics.
 
 ## Week 4: Cybersecurity tools and programming languages
 
-[Five icons show the course followed by the four weeks sequentially from left to right with week 4 highlighted.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/mPui2kPMTOet2uSC5Y8mXA_98ec1eeec8a64f989970da26500232f1_FoundationsCyber-R-001-4.png?expiry=1685232000000&hmac=w658DhxYUlFAgBHEhOH-hgJFjD0XygXqUvGI9XS4vpU)
+![Five icons show the course followed by the four weeks sequentially from left to right with week 4 highlighted.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/mPui2kPMTOet2uSC5Y8mXA_98ec1eeec8a64f989970da26500232f1_FoundationsCyber-R-001-4.png?expiry=1685232000000&hmac=w658DhxYUlFAgBHEhOH-hgJFjD0XygXqUvGI9XS4vpU)
 
 You’ll discover common tools used by cybersecurity analysts to identify and eliminate risk. You'll learn about security information and event management (SIEM) tools, network protocol analyzers, and programming languages such as Python and SQL.
