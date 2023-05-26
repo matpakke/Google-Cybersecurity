@@ -55,3 +55,5 @@ You will learn about security frameworks and controls, which are used to mitigat
 ![Five icons show the course followed by the four weeks sequentially from left to right with week 4 highlighted.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/mPui2kPMTOet2uSC5Y8mXA_98ec1eeec8a64f989970da26500232f1_FoundationsCyber-R-001-4.png?expiry=1685232000000&hmac=w658DhxYUlFAgBHEhOH-hgJFjD0XygXqUvGI9XS4vpU)
 
 You’ll discover common tools used by cybersecurity analysts to identify and eliminate risk. You'll learn about security information and event management (SIEM) tools, network protocol analyzers, and programming languages such as Python and SQL.
+
+[Cybersecurity Certificate glossary](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fd3c33hcgiwev3.cloudfront.net%2FQ__8HGJKSWKvlbOKLdTtkg_ad50d57e3f79455783a12f606c297af1_Google-Cybersecurity-Certificate-glossary.docx%3FExpires%3D1685232000%26Signature%3DLMGc4~jAhvvqBpijxuGwo2ww02PfG1JBQyGjPjcS0jvBOSTR0h~hFUfGWx-mHz2zaVG7QLoemmtnz3jsFQnZyh9k3WpXswsTNuilLLb1uRSPuWN3FE2Ia-oBJ0PAwoQtqH2opbSMvoEmK68qxfL-MsFjbLCdB4QwB1K5u7gKzP8_%26Key-Pair-Id%3DAPKAJLTNE6QMUY6HBC5A&wdOrigin=BROWSELINK)
