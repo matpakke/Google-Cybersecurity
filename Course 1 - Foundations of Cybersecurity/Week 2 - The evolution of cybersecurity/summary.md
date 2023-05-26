@@ -64,3 +64,20 @@ Integrity is the idea that the data is verifiably correct, authentic, and reliab
 
 ### Availability
 Availability is the idea that data is accessible to those who are authorized to use it. When a system adheres to both availability and confidentiality principles, data can be used when needed. In the workplace, this could mean that the organization allows remote employees to access its internal network to perform their jobs. It’s worth noting that access to data on the internal network is still limited, depending on what type of access employees need to do their jobs. If, for example, an employee works in the organization’s accounting department, they might need access to corporate accounts but not data related to ongoing development projects. 
+
+# NIST Risk Management Framework (RMF)
+National Institute of Standards and Technology’s (NIST’s) Risk Management Framework (RMF)
+
+The Risk Management Framework provides a process that integrates security, privacy, and cyber supply chain risk management activities into the system development life cycle. The risk-based approach to control selection and specification considers effectiveness, efficiency, and constraints due to applicable laws, directives, Executive Orders, policies, standards, or regulations. Managing organizational risk is paramount to effective information security and privacy programs; the RMF approach can be applied to new and legacy systems, any type of system or technology (e.g., IoT, control systems), and within any type of organization regardless of size or sector.
+
+![NIST RMF](https://csrc.nist.gov/CSRC/media/Projects/risk-management/images-media/RMF%20Logos/PNG%20Format/NIST%20RMF%20Graphc.png)
+
+| RMF Step | Description |
+| ----------- | ----------- |
+| Prepare | Essential activities to prepare the organization to manage security and privacy risks  |
+| Categorize | Categorize the system and information processed, stored, and transmitted based on an impact analysis |
+| Select | Select the set of NIST SP 800-53 controls to protect the system based on risk assessment(s) |
+| Implement | Implement the controls and document how controls are deployed |
+| Assess | Assess to determine if the controls are in place, operating as intended, and producing the desired results |
+| Authorize | Senior official makes a risk-based decision to authorize the system (to operate) |
+| Monitor | Continuously monitor control implementation and risks to the system |
