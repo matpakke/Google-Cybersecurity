@@ -120,6 +120,8 @@ The security of key systems should not rely on keeping details hidden. Consider 
 
 The security of an application should not rely on keeping the source code secret. Its security should rely upon many other factors, including reasonable password policies, defense in depth, business transaction limits, solid network architecture, and fraud and audit controls.
 
+[Security By Design Principles According To OWASP](https://patchstack.com/articles/security-design-principles-owasp/)
+
 ----
 
 # More about security audits
@@ -158,3 +160,48 @@ Along with compliance, it’s important to mention the role of frameworks and co
 There are three main categories of controls to review during an audit, which are administrative and/or managerial, technical, and physical controls. To learn more about specific controls related to each category, click the following link and select “Use Template.” 
 
 Link to template: [Control categories](https://docs.google.com/document/d/1HsIw5HNDbRXzW7pmhPLsK06B7HF-KMifENO_TlccbSU/template/preview)
+
+## Audit checklist
+It’s necessary to create an audit checklist before conducting an audit. A checklist is generally made up of the following areas of focus:
+
+### Identify the scope of the audit
+
+* The audit should:
+
+- List assets that will be assessed (e.g., firewalls are configured correctly, PII is secure, physical assets are locked, etc.) 
+
+- Note how the audit will help the organization achieve its desired goals
+
+- Indicate how often an audit should be performed
+
+- Include an evaluation of organizational policies, protocols, and procedures to make sure they are working as intended and being implemented by employees
+
+### Complete a risk assessment
+
+- A risk assessment is used to evaluate identified organizational risks related to budget, controls, internal processes, and external standards (i.e., regulations).
+
+### Conduct the audit
+
+- When conducting an internal audit, you will assess the security of the identified assets listed in the audit scope.
+
+### Create a mitigation plan
+
+- A mitigation plan is a strategy established to lower the level of risk and potential costs, penalties, or other issues that can negatively affect the organization’s security posture. 
+
+### Communicate results to stakeholders
+
+- The end result of this process is providing a detailed report of findings, suggested improvements needed to lower the organization's level of risk, and compliance regulations and standards the organization needs to adhere to. 
+
+## Key takeaways
+In this reading you learned more about security audits, including what they are; why they’re conducted; and the role of frameworks, controls, and compliance in audits. 
+
+Although there is much more to learn about security audits, this introduction is meant to support your ability to complete an audit of your own for a self-reflection portfolio activity later in this course.
+
+### Resources for more information
+Resources that you can explore to further develop your understanding of audits in the cybersecurity space are: 
+
+- [IT Security Procedural Guide: Audit and Accountability (AU) CIO-IT Security-01-08](https://www.gsa.gov/cdnstatic/Audit_and_Accountability_(AU)_%5BCIO-IT_Security_01-08_Rev_6%5D_12-03-2020docx.pdf)
+
+- [Assessment and Auditing Resources](https://www.nist.gov/cyberframework/assessment-auditing-resources)
+
+- [IT Disaster Recovery Plan](https://www.ready.gov/it-disaster-recovery-plan)
