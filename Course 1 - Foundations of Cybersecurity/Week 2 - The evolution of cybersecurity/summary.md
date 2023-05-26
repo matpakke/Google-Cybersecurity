@@ -81,3 +81,80 @@ The Risk Management Framework provides a process that integrates security, priva
 | Assess | Assess to determine if the controls are in place, operating as intended, and producing the desired results |
 | Authorize | Senior official makes a risk-based decision to authorize the system (to operate) |
 | Monitor | Continuously monitor control implementation and risks to the system |
+
+# OWASP security principles
+
+Previously, you learned that cybersecurity analysts help keep data safe and reduce risk for an organization by using a variety of security frameworks, controls, and security principles. In this reading, you will learn about more Open Web Application Security Project, recently renamed Open Worldwide Application Security Project® (OWASP), security principles and how entry-level analysts use them. 
+
+## Security principles
+In the workplace, security principles are embedded in your daily tasks. Whether you are analyzing logs, monitoring a security information and event (SIEM) dashboard, or using a vulnerability scanner, you will use these principles in some way. 
+
+Previously, you were introduced to several OWASP security principles. These included:
+
+- **Minimize attack surface area:** Attack surface refers to all the potential vulnerabilities a threat actor could exploit.
+
+- **Principle of least privilege:** Users have the least amount of access required to perform their everyday tasks.
+
+- **Defense in depth:** Organizations should have varying security controls that mitigate risks and threats.
+
+- **Separation of duties:** Critical actions should rely on multiple people, each of whom follow the principle of least privilege. 
+
+- **Keep security simple:** Avoid unnecessarily complicated solutions. Complexity makes security difficult. 
+
+- **Fix security issues correctly:** When security incidents occur, identify the root cause, contain the impact, identify vulnerabilities, and conduct tests to ensure that remediation is successful.
+
+## Additional OWASP security principles
+Next, you’ll learn about four additional OWASP security principles that cybersecurity analysts and their teams use to keep organizational operations and people safe.
+
+### Establish secure defaults
+This principle means that the optimal security state of an application is also its default state for users; it should take extra work to make the application insecure. 
+
+### Fail securely
+Fail securely means that when a control fails or stops, it should do so by defaulting to its most secure option. For example, when a firewall fails it should simply close all connections and block all new ones, rather than start accepting everything.
+
+### Don’t trust services
+Many organizations work with third-party partners. These outside partners often have different security policies than the organization does. And the organization shouldn’t explicitly trust that their partners’ systems are secure. For example, if a third-party vendor tracks reward points for airline customers, the airline should ensure that the balance is accurate before sharing that information with their customers.
+
+### Avoid security by obscurity
+The security of key systems should not rely on keeping details hidden. Consider the following example from OWASP (2016):
+
+The security of an application should not rely on keeping the source code secret. Its security should rely upon many other factors, including reasonable password policies, defense in depth, business transaction limits, solid network architecture, and fraud and audit controls.
+
+----
+
+# More about security audits
+Previously, you were introduced to how to plan and complete an internal security audit. In this reading, you will learn more about security audits, including the goals and objectives of audits. 
+
+## Security audits
+A **security audit** is a review of an organization's security controls, policies, and procedures against a set of expectations. Audits are independent reviews that evaluate whether an organization is meeting internal and external criteria. Internal criteria include outlined policies, procedures, and best practices. External criteria include regulatory compliance, laws, and federal regulations. 
+
+Additionally, a security audit can be used to assess an organization's established security controls. As a reminder, security controls are safeguards designed to reduce specific security risks. 
+
+Audits help ensure that security checks are made (i.e., daily monitoring of security information and event management dashboards), to identify threats, risks, and vulnerabilities. This helps maintain an organization’s security posture. And, if there are security issues, a remediation process must be in place.
+
+## Goals and objectives of an audit
+The goal of an audit is to ensure an organization's information technology (IT) practices are meeting industry and organizational standards. The objective is to identify and address areas of remediation and growth. Audits provide direction and clarity by identifying what the current failures are and developing a plan to correct them. 
+
+Security audits must be performed to safeguard data and avoid penalties and fines from governmental agencies. The frequency of audits is dependent on local laws and federal compliance regulations.
+
+## Factors that affect audits
+Factors that determine the types of audits an organization implements include: 
+
+- Industry type
+
+- Organization size
+
+- Ties to the applicable government regulations
+
+- A business’s geographical location
+
+- A business decision to adhere to a specific regulatory compliance
+
+To review common compliance regulations that different organizations need to adhere to, refer to [the reading about controls, frameworks, and compliance](https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/xu4pr/controls-frameworks-and-compliance).
+
+## The role of frameworks and controls in audits
+Along with compliance, it’s important to mention the role of frameworks and controls in security audits. Frameworks such as the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF) and the international standard for information security (ISO 27000) series are designed to help organizations prepare for regulatory compliance security audits. By adhering to these and other relevant frameworks, organizations can save time when conducting external and internal audits. Additionally, frameworks, when used alongside controls, can support organizations’ ability to align with regulatory compliance requirements and standards.  
+
+There are three main categories of controls to review during an audit, which are administrative and/or managerial, technical, and physical controls. To learn more about specific controls related to each category, click the following link and select “Use Template.” 
+
+Link to template: [Control categories](https://docs.google.com/document/d/1HsIw5HNDbRXzW7pmhPLsK06B7HF-KMifENO_TlccbSU/template/preview)
