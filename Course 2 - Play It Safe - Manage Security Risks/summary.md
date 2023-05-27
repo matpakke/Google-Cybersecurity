@@ -380,17 +380,33 @@ Common steps included in incident and vulnerability playbooks include:
 
 - Preparation
 
+Before incidents occur, mitigate potential impacts on the organization by documenting, establishing staffing plans, and educating users
+
 - Detection
 
 - Analysis
 
+Detect and analyze events by implementing defined processes and appropriate technology.
+
 - Containment
 
+Prevent further damage and reduce immediate impact of incidents.
+
 - Eradication
+
+Completely remove artifacts of the incident so that an organization can return to normal operations.
 
 - Recovery from an incident 
 
 Additional steps include performing post-incident activities, and a coordination of efforts throughout the investigation and incident and vulnerability response stages.
+
+- Post-incident activity
+
+Document the incident, inform organizational leadership, and apply lessons learned.
+
+- Coordination
+
+Report incidents and share information throughout the response process, based on established standards.
 
 ## Key takeaways
 It is essential to refine processes and procedures outlined in a playbook. With every documented incident, cybersecurity teams need to consider what was learned from the incident and what improvements should be made to handle incidents more effectively in the future. Playbooks create structure and ensure compliance with the law. 
@@ -398,13 +414,13 @@ It is essential to refine processes and procedures outlined in a playbook. With 
 ## Resources for more information
 Incident and vulnerability response playbooks are only two examples of the many playbooks that an organization uses. If you plan to work as a cybersecurity professional outside of the U.S., you may want to explore the following resources:
 
-- [()United Kingdom, National Cyber Security Center (NCSC) - Incident Management](https://www.ncsc.gov.uk/section/about-ncsc/incident-management)
+- [United Kingdom, National Cyber Security Center (NCSC) - Incident Management](https://www.ncsc.gov.uk/section/about-ncsc/incident-management)
 
-- [()Australian Government - Cyber Incident Response Plan](https://www.cyber.gov.au/sites/default/files/2023-03/ACSC%20Cyber%20Incident%20Response%20Plan%20Guidance_A4.pdf)
+- [Australian Government - Cyber Incident Response Plan](https://www.cyber.gov.au/sites/default/files/2023-03/ACSC%20Cyber%20Incident%20Response%20Plan%20Guidance_A4.pdf)
 
-- [()Japan Computer Emergency Response Team Coordination Center (JPCERT/CC) - Vulnerability Handling and related guidelines](https://www.jpcert.or.jp/english/vh/guidelines.html)
+- [Japan Computer Emergency Response Team Coordination Center (JPCERT/CC) - Vulnerability Handling and related guidelines](https://www.jpcert.or.jp/english/vh/guidelines.html)
 
-- [()Government of Canada - Ransomware Playbook](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099)
+- [Government of Canada - Ransomware Playbook](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099)
 
-- [()Scottish Government - Playbook Templates](https://www.gov.scot/publications/cyber-resilience-incident-management/)
+- [Scottish Government - Playbook Templates](https://www.gov.scot/publications/cyber-resilience-incident-management/)
 
