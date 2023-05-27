@@ -82,8 +82,7 @@
 
 **Media Access Control (MAC) address:** A unique alphanumeric identifier that is assigned to each physical device on a network
 
-**Modem:** A device that connects your router to the internet and brings internet access
-**to the LAN
+**Modem:** A device that connects your router to the internet and brings internet access to the LAN
 
 **Multi-factor authentication (MFA):** A security measure that requires a user to verify their identity in two or more ways to access a system or network
 
@@ -111,8 +110,7 @@
 
 **Passive packet sniffing:** A type of attack where a malicious actor connects to a network hub and looks at all traffic on the network
 
-**Patch update:** A software and operating system update that addresses security
-**vulnerabilities within a program or product
+**Patch update:** A software and operating system update that addresses security vulnerabilities within a program or product
 
 **Penetration testing:** A simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes
 
@@ -126,7 +124,9 @@
 
 ## R
 
-**Replay attack:** A network attack performed when a malicious actor intercepts a data packet in transit and delays it or repeats it at another time Reverse proxy server:** A server that regulates and restricts the Internet's access to an internal server
+**Replay attack:** A network attack performed when a malicious actor intercepts a data packet in transit and delays it or repeats it at another time 
+
+**Reverse proxy server:** A server that regulates and restricts the Internet's access to an internal server
 
 **Router:** A network device that connects multiple networks together
 
