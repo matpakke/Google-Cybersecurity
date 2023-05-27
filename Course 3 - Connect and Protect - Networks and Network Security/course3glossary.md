@@ -34,6 +34,8 @@
 
 **Distributed denial of service (DDoS) attack:** A type of denial or service attack that uses multiple devices or servers located in different locations to flood the target network with unwanted traffic
 
+**Device:** A device connects to the network via a switch.
+
 **Domain Name System (DNS):** A networking protocol that translates internet domain names into IP addresses
 
 ## E
@@ -88,7 +90,7 @@
 
 ## N
 
-**Network:** A group of connected devices
+**Network:** A group of connected devices. The devices on a network can communicate with each other over network cables or wireless connections.
 
 **Network log analysis:** The process of examining network logs to identify events of interest
 
@@ -128,7 +130,7 @@
 
 **Reverse proxy server:** A server that regulates and restricts the Internet's access to an internal server
 
-**Router:** A network device that connects multiple networks together
+**Router:** A network device that connects multiple networks together. A router connects the internet, firewall, and server to the rest of the network.
 
 ## S
 
@@ -152,7 +154,7 @@
 
 **Subnetting:** The subdivision of a network into logical groups called subnets
 
-**Switch:** A device that makes connections between specific devices on a network by sending and receiving data between them
+**Switch:** A device that makes connections between specific devices on a network by sending and receiving data between them. A switch connects the network to devices like phones, tablets, workstations, and desktops.
 
 **Synchronize (SYN) flood attack:** A type of DoS attack that simulates a TCP/IP connection and floods a server with SYN packets
 
@@ -177,6 +179,8 @@
 ## W
 
 **Wide Area Network (WAN):** A network that spans a large geographic area like a city, state, or country
+
+**Wireless access point:** A wireless access point can connect other devices behind a firewall.
 
 **Wi-Fi Protected Access (WPA):** A wireless security protocol for devices to connect to the internet
 
