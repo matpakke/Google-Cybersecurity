@@ -6,6 +6,8 @@
 
 **Address Resolution Protocol (ARP):** Used to determine the MAC address of the nextrouter or device to traverse
 
+**Application Layer:** the application layer, protocols determine how the data packets will interact with receiving devices. Functions that are organized at application layer include file transfers and email services.
+
 ## B
 
 **Bandwidth:** The maximum data transmission capacity over a network, measured bybits per second. The amount of data a device receives every second 
@@ -70,6 +72,8 @@
 
 **Internet Control Message Protocol (ICMP) flood:** A type of DoS attack performed by an attacker repeatedly sending ICMP request packets to a network server
 
+**Internet Layer:** The internet layer is where IP addresses are attached to data packets to indicate the location of the sender and receiver. The internet layer also focuses on how networks connect to each other. For example, data packets containing information that determine whether they will stay on the LAN or will be sent to a remote network, like the internet.
+
 **Internet Protocol (IP):** A set of standards used for routing and addressing data packets as they travel between devices on a network
 
 **Internet Protocol (IP) address:** A unique string of characters that identifies the location of a device on the internet
@@ -91,6 +95,8 @@
 ## N
 
 **Network:** A group of connected devices. The devices on a network can communicate with each other over network cables or wireless connections.
+
+**Network access layer:** The network access layer deals with creation of data packets and their transmission across a network. This includes hardware devices connected to physical cables and switches that direct data to its destination.
 
 **Network log analysis:** The process of examining network logs to identify events of interest
 
@@ -167,6 +173,8 @@
 **Transmission Control Protocol (TCP):** An internet communication protocol that allows two devices to form a connection and stream data
 
 **Transmission control protocol (TCP) 3-way handshake:** A three-step process used to establish an authenticated connection between two devices on a network
+
+**Transport Layer:** The transport layer includes protocols to control the flow of traffic across a network. These protocols permit or deny communication with other devices and include information about the status of the connection. Activities of this layer include error control, which ensures data is flowing smoothly across the network.
 
 ## U
 
