@@ -8,7 +8,7 @@
 
 ## B
 
-**Bandwidth:** The maximum data transmission capacity over a network, measured bybits per second
+**Bandwidth:** The maximum data transmission capacity over a network, measured bybits per second. The amount of data a device receives every second 
 
 **Baseline configuration:** A documented set of specifications within a system that is used as a basis for future builds, releases, and updates
 
@@ -146,7 +146,7 @@
 
 **Smurf attack:** A network attack performed when an attacker sniffs an authorized user’s IP address and floods it with ICMP packets
 
-**Speed:** The rate at which a device sends and receives data, measured by bits per second
+**Speed:** The rate at which a device sends and receives data, measured by bits per second. The rate at which data packets are received or download
 
 **Stateful:** A class of firewall that keeps track of information passing through it and proactively filters out threats
 

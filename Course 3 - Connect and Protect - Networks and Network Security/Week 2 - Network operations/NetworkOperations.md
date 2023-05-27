@@ -55,3 +55,7 @@ The TCP/IP model combines multiple layers of the OSI model. There are many simil
 
 ## Key takeaways
 Both the TCP/IP and OSI models are conceptual models that help network professionals visualize network processes and protocols in regards to data transmission between two or more systems. The TCP/IP model contains four layers, and the OSI model contains seven layers.
+
+---
+
+# [List of the Transmission Control Protocol (TCP) and the User Datagram Protocol (UDP) port numbers](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
