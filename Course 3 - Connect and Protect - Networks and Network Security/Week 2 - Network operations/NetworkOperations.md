@@ -209,13 +209,10 @@ As a cybersecurity analyst, you will encounter various common protocols in your 
 
 | Protocol | Port |
 | ----------- | ----------- |
-| DHCP | UDP port 67 (servers)
-UDP port 68 (clients) |
+| DHCP | UDP port 67 (servers), UDP port 68 (clients) |
 | ARP | none |
 | Telnet | TCP port 23 |
 | SSH | TCP port 22 |
-| POP3 | TCP/UDP port 110 (unencrypted)
-TCP/UDP port 995 (encrypted, SSL/TLS) |
-| IMAP | TCP port 143 (unencrypted)
-TCP port 993 (encrypted, SSL/TLS) |
+| POP3 | TCP/UDP port 110 (unencrypted), TCP/UDP port 995 (encrypted, SSL/TLS) |
+| IMAP | TCP port 143 (unencrypted), TCP port 993 (encrypted, SSL/TLS) |
 | SMTP | TCP/UDP port 587 (encrypted, TLS) |
