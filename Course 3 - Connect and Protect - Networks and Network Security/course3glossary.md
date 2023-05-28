@@ -4,7 +4,7 @@
 
 **Active packet sniffing:** A type of attack where data packets are manipulated in transit
 
-**Address Resolution Protocol (ARP):** Used to determine the MAC address of the nextrouter or device to traverse
+**Address Resolution Protocol (ARP):** Used to determine the MAC address of the next router or device to traverse
 
 **Application Layer:** the application layer, protocols determine how the data packets will interact with receiving devices. Functions that are organized at application layer include file transfers and email services.
 
