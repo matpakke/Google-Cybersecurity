@@ -80,7 +80,7 @@
 
 **Internet Protocol (IP) address:** A unique string of characters that identifies the location of a device on the internet
 
-**IP spoofing:** A network attack performed when an attacker changes the source IP of a data packet to impersonate an authorized system and gain access to a network
+**IP spoofing:** A network attack performed when an attacker changes the source IP of a data packet to impersonate an authorized system and gain access to a network. Common IP spoofing attacks such as On-path attack, Replay attack, Smurf sttack
 
 ## L
 
