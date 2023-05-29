@@ -4,7 +4,7 @@
 
 **Active packet sniffing:** A type of attack where data packets are manipulated in transit
 
-**Address Resolution Protocol (ARP):** Used to determine the MAC address of the next router or device to traverse
+**Address Resolution Protocol (ARP):** Used to determine the MAC address of the next router or device to traverse. A network protocol used to determine the MAC address of the next router or device on the path
 
 **Application Layer:** the application layer, protocols determine how the data packets will interact with receiving devices. Functions that are organized at application layer include file transfers and email services.
 
@@ -26,7 +26,7 @@
 
 **Cloud network:** A collection of servers or computers that stores resources and data in remote data centers that can be accessed via the internet
 
-**Controlled zone:** A subnet that protects the internal network from the uncontrolled zone
+**Controlled zone:** A subnet that protects the internal network from the uncontrolled zone. Areas in the controled zone include Demilitarized zone (DMZ), Internal network, Restricted zone
 
 ## D
 
@@ -37,6 +37,8 @@
 **Distributed denial of service (DDoS) attack:** A type of denial or service attack that uses multiple devices or servers located in different locations to flood the target network with unwanted traffic
 
 **Device:** A device connects to the network via a switch.
+
+**Demilitarized zone (DMZ):** Isolate servers exposed to the internet from the rest of a network
 
 **Domain Name System (DNS):** A networking protocol that translates internet domain names into IP addresses
 
@@ -50,7 +52,7 @@
 
 **Firewall:** A network security device that monitors traffic to or from your network
 
-**Forward proxy server:** A server that regulates and restricts a person’s access to the internet
+**Forward proxy server:** A server that regulates and restricts a person’s access to the internet. Forward proxy servers receive outgoing traffic from an employee, approve it, then forward it to its destination on the internet.
 
 ## H
 
@@ -120,13 +122,13 @@
 
 **Packet sniffing:** The practice of capturing and inspecting data packets across a network
 
-**Passive packet sniffing:** A type of attack where a malicious actor connects to a network hub and looks at all traffic on the network
+**Passive packet sniffing:** A type of attack where a malicious actor connects to a network hub and looks at all traffic on the network. A type of attack where data packets are read in transit
 
 **Patch update:** A software and operating system update that addresses security vulnerabilities within a program or product
 
 **Penetration testing:** A simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes
 
-**Ping of death:** A type of DoS attack caused when a hacker pings a system by sending it an oversized ICMP packet that is bigger than 64KB
+**Ping of death:** A type of DoS attack caused when a hacker pings a system by sending it an oversized ICMP packet that is bigger than 64KB which is the maximum size for a correctly formed ICMP packet
 
 **Port:** A software-based location that organizes the sending and receiving of data between devices on a network
 
@@ -138,7 +140,7 @@
 
 **Replay attack:** A network attack performed when a malicious actor intercepts a data packet in transit and delays it or repeats it at another time 
 
-**Reverse proxy server:** A server that regulates and restricts the Internet's access to an internal server
+**Reverse proxy server:** A server that regulates and restricts the Internet's access to an internal server. Reverse proxy servers accept traffic from external parties, approve it, then forward it to internal servers. 
 
 **Router:** A network device that connects multiple networks together. A router connects the internet, firewall, and server to the rest of the network.
 
@@ -166,7 +168,7 @@
 
 **Switch:** A device that makes connections between specific devices on a network by sending and receiving data between them. A switch connects the network to devices like phones, tablets, workstations, and desktops.
 
-**Synchronize (SYN) flood attack:** A type of DoS attack that simulates a TCP/IP connection and floods a server with SYN packets
+**Synchronize (SYN) flood attack:** A type of DoS attack that simulates a TCP/IP connection and floods a server with SYN packets. A SYN flood attack poses as a TCP connection and floods a server with packets simulating the first step of the TCP handshake. This overwhelms the server, making it unable to function.
 
 ## T
 
@@ -180,13 +182,13 @@
 
 ## U
 
-**Uncontrolled zone:** The portion of the network outside the organization
+**Uncontrolled zone:** The portion of the network outside the organization or any network outside of the organization's control
 
 **User Datagram Protocol (UDP):** A connectionless protocol that does not establish a connection between devices before transmissions
 
 ## V
 
-**Virtual Private Network (VPN):** A network security service that changes your public IP address and masks your virtual location so that you can keep your data private when you are using a public network like the internet
+**Virtual Private Network (VPN):** A network security service that changes your public IP address and hides/masks your virtual location so that you can keep your data private when you are using a public network like the internet
 
 ## W
 
