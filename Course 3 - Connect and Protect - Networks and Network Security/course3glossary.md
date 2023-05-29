@@ -138,7 +138,7 @@
 
 **Port:** A software-based location that organizes the sending and receiving of data between devices on a network
 
-**Port filtering:** A firewall function that blocks or allows certain port numbers to limit unwanted communication
+**Port filtering:** A firewall function that blocks or allows certain port numbers to limit unwanted communication. A basic principle of port filtering is to allow ports that are used by normal network operations. Any port that is not being used by the normal network operations should be disallowed to protect against vulnerabilities.
 
 **Proxy server:** A server that fulfills the requests of its clients by forwarding them to other servers
 
