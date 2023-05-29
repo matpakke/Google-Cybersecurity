@@ -102,7 +102,9 @@
 
 **Network access layer:** The network access layer deals with creation of data packets and their transmission across a network. This includes hardware devices connected to physical cables and switches that direct data to its destination.
 
-**Network Interface Card (NIC):** Hardware that connects computers to a network
+**Network security hardening:** includes Port filtering, Network access privilege, Encryption 
+
+**Network Interface Card (NIC):** Hardware that connects computers to a network. Tasks performed including Firewall rules maintenance, Network log analysis, Patch updates, Server backups
 
 **Network log analysis:** The process of examining network logs to identify events of interest
 
@@ -156,7 +158,7 @@
 
 **Security hardening:** The process of strengthening a system to reduce its vulnerabilities and attack surface. Security hardening is conducted on hardware, Operating systems, Applications, Computer Networks and Databases
 
-**Security information and event management (SIEM):** An application that collects and analyzes log data to monitors critical activities for an organization
+**Security information and event management (SIEM):** An application that collects and analyzes log data to monitors critical activities for an organization. It gathers security data from a network and presents that data on a single dashboard.
 
 **Security zone:** A segment of a company’s network that protects the internal network from the internet
 
