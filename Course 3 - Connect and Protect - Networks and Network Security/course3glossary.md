@@ -8,11 +8,13 @@
 
 **Application Layer:** the application layer, protocols determine how the data packets will interact with receiving devices. Functions that are organized at application layer include file transfers and email services.
 
+**Attack Surface:** All the potential vulnerabilities that a threat actor could exploit. An example that compares a network to a house. The attack surface would be all the doors and windows that a robber could use to gain access to that house.
+
 ## B
 
 **Bandwidth:** The maximum data transmission capacity over a network, measured bybits per second. The amount of data a device receives every second 
 
-**Baseline configuration:** A documented set of specifications within a system that is used as a basis for future builds, releases, and updates
+**Baseline configuration (baseline image):** A documented set of specifications within a system that is used as a basis for future builds, releases, and updates
 
 **Bluetooth:** Used for wireless communication with nearby physical devices
 
@@ -92,13 +94,15 @@
 
 **Modem:** A device that connects your router to the internet and brings internet access to the LAN
 
-**Multi-factor authentication (MFA):** A security measure that requires a user to verify their identity in two or more ways to access a system or network
+**Multi-factor authentication (MFA):** A security measure that requires a user to verify their identity in two or more ways to access a system or network such as something you know/have/unique about you
 
 ## N
 
 **Network:** A group of connected devices. The devices on a network can communicate with each other over network cables or wireless connections.
 
 **Network access layer:** The network access layer deals with creation of data packets and their transmission across a network. This includes hardware devices connected to physical cables and switches that direct data to its destination.
+
+**Network Interface Card (NIC):** Hardware that connects computers to a network
 
 **Network log analysis:** The process of examining network logs to identify events of interest
 
@@ -150,13 +154,13 @@
 
 **Secure shell (SSH):** A security protocol used to create a shell with a remote system
 
-**Security hardening:** The process of strengthening a system to reduce its vulnerabilities and attack surface
+**Security hardening:** The process of strengthening a system to reduce its vulnerabilities and attack surface. Security hardening is conducted on hardware, Operating systems, Applications, Computer Networks and Databases
 
 **Security information and event management (SIEM):** An application that collects and analyzes log data to monitors critical activities for an organization
 
 **Security zone:** A segment of a company’s network that protects the internal network from the internet
 
-**Smurf attack:** A network attack performed when an attacker sniffs an authorized user’s IP address and floods it with ICMP packets
+**Smurf attack:** A network attack performed when an attacker sniffs an authorized user’s IP address and floods it with ICMP packets. It is a combination between a DDOS attack and an IP spoofing attack.
 
 **Speed:** The rate at which a device sends and receives data, measured by bits per second. The rate at which data packets are received or download
 
