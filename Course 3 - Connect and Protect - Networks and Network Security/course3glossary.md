@@ -104,6 +104,8 @@
 
 **Network segmentation:** A security technique that divides the network into segments
 
+**Next Generation Firewalls (NGFWs):** Deep packet inspection. Intrution protection, Threat Ingelligence 
+
 ## O
 
 **Operating system (OS):** The interface between computer hardware and the user
