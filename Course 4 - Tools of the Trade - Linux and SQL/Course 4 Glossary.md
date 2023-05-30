@@ -16,7 +16,8 @@
 **CentOS:** An open-source distribution that is closely related to Red Hat
 **Central Processing Unit (CPU):** A computer’s main processor, which is used to perform general computing tasks on a computer
 **Command:** An instruction telling the computer to do something
-**Command-line interface (CLI):** A text-based user interface that uses commands to interact with the computer
+**Command-line interface (CLI):** A text-based user interface that uses commands to interact with the computer. A CLI allows users to enter commands that can perform multiple tasks simultaneously.
+**Computer operating system:** The job of a computer operating system is to help make other computer programs run efficiently. It does this by managing the details related to controlling computer hardware.
 
 ## D
 **Database:** An organized collection of information or data
@@ -30,12 +31,12 @@
 
 ## F
 **File path:** The location of a file or directory
-**Filesystem Hierarchy Standard (FHS):** The component of the Linux OS that organizes data
+**Filesystem Hierarchy Standard (FHS):** The component of the Linux OS that organizes data. An easy way for you to think about the FHS is to think about it as a filing cabinet of data. The FHS is how data is stored in a system. It's a way to organize data so that it can be found when the data is accessed by the system.
 **Filtering:** Selecting data that match a certain condition
 **Foreign key:** A column in a table that is a primary key in another table
 
 ## G
-**Graphical user interface (GUI):** A user interface that uses icons on the screen to manage different tasks on the computer
+**Graphical user interface (GUI):** A user interface that uses icons on the screen to manage different tasks on the computer. Basic GUI components include Start menu, Task bar, Desktop with icons and shortcuts
 
 ## H
 **Hard drive:** A hardware component used for long-term memory
@@ -48,12 +49,16 @@
 
 ## K
 **Kali Linux TM:** An open-source distribution of Linux that is widely used in the security industry
-**Kernel:** The component of the Linux OS that manages processes and memory
+**Kernel:** The component of the Linux OS that manages processes and memory. The kernel communicates with the hardware to execute the commands sent by the shell. The kernel uses drivers to enable applications to execute tasks. 
 
 ## L
 **Legacy operating system:** An operating system that is outdated but still being used
-**Linux:** An open-source operating system
+**Linux:** An open-source operating system. Components of Linux include User, Applications, Shell, Filesystem Hirarchy Standard, Kernel, Hardware
 **Log:** A record of events that occur within an organization's systems
+
+## M
+
+**Memory Management:** The OS handles resource and memory management to ensure the limited capacity of the computer system is used where it is needed most.
 
 ## N
 **nano:** A command-line file editor that is available by default in many Linux distributions
@@ -86,8 +91,8 @@
 **Root directory:** The highest-level directory in Linux
 **Root user (or superuser):** A user with elevated privileges to modify the system
 
-**S
-**Shell:** The command-line interpreter
+## S
+**Shell:** The command-line interpreter. It processes commands and outputs the results.
 **SQL (Structured Query Language):** A programming language used to create, interact with, and request information from a database
 **Standard error:** An error message returned by the OS through the shell
 **Standard input:** Information received by the OS via the command line
