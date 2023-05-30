@@ -116,7 +116,7 @@
 
 ## O
 
-**Operating system (OS):** The interface between computer hardware and the user
+**Operating system (OS):** The interface between computer hardware and the user. Operating systems help humans and computers communicate and allow users to run multiple applications at once. Maintaining the security of an operating system is also critical for the security of a computer.
 
 **Open systems interconnection (OSI) model:** A standardized concept that describes the seven layers computers use to communicate and send data over the network
 
@@ -141,6 +141,8 @@
 **Port filtering:** A firewall function that blocks or allows certain port numbers to limit unwanted communication. A basic principle of port filtering is to allow ports that are used by normal network operations. Any port that is not being used by the normal network operations should be disallowed to protect against vulnerabilities.
 
 **Proxy server:** A server that fulfills the requests of its clients by forwarding them to other servers
+
+**Principle of least privilege:** Access and authorization to information only last long enough to complete a task
 
 ## R
 
