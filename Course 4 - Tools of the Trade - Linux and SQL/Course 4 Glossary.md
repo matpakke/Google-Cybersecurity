@@ -2,7 +2,7 @@
 
 ## A
 **Absolute file path:** The full file path, which starts from the root
-**Application:** A program that performs a specific task
+**Application:** A program that performs a specific task. Applications send requests to the operating system, and the operating system directs those requests to the hardware. The hardware also sends information back to the operating system, and the operating system sends it back to applications.
 **Argument (Linux):** Specific information needed by a command
 **Authentication:** The process of verifying who someone is
 **Authorization:** The concept of granting access to specific resources in a system
