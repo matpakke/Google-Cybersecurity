@@ -22,9 +22,10 @@
 ## D
 **Database:** An organized collection of information or data
 **Date and time data:** Data representing a date and/or time
-**Digital forensics:** The practice of collecting and analyzing data to determine what has happened after an attack
+**Digital forensics:** The practice of collecting and analyzing data to determine what has happened after an attack. Digital forensic tools in KALI LINUX such as tcpdump is a command-line packet analyzer which is used to capture network traffic. Another tool commonly used in the security profession is Wireshark. It has a graphical user interface that can be used to analyze live and captured network traffic. And as a final example, Autopsy is a forensic tool used to analyze hard drives and smartphones. 
 **Directory:** A file that organizes where other files are stored
-**Distributions:** The different versions of Linux
+**Distributions (also called distros or flavors of Linux.):** The different versions of Linux. The pre-installed programs, user interfaces, and parent distributions might differ from one Linux distribution to another.
+**Parent Distributions:** Red Hat Enterprise Linux (CentOS), Slackware (SUSE), Debian (Ubuntu and KALI LINUX)
 
 ## E
 **Exclusive operator:** An operator that does not include the value of comparison
@@ -48,7 +49,7 @@
 **Internal hardware:** The components required to run the computer
 
 ## K
-**Kali Linux TM:** An open-source distribution of Linux that is widely used in the security industry
+**Kali Linux TM:** An open-source distribution of Linux that is widely used in the security industry. It is a Debian-derived distribution, it contains many pre-installed tools for cybersecurity tasks, and it should be used on a virtual machine.
 **Kernel:** The component of the Linux OS that manages processes and memory. The kernel communicates with the hardware to execute the commands sent by the shell. The kernel uses drivers to enable applications to execute tasks. 
 
 ## L
@@ -73,7 +74,7 @@
 **Package:** A piece of software that can be combined with other packages to form an application
 **Package manager:** A tool that helps users install, manage, and remove packages or applications
 **Parrot:** An open-source distribution that is commonly used for security
-**Penetration test (pen test):** A simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes
+**Penetration test (pen test):** A simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes. Penetration testing tools in KALI LINUX such as Metasploit can be used to look for and exploit vulnerabilities on machines, Burp Suite is another tool that helps to test for weaknesses in web applications and, John the Ripper is a tool used to guess passwords. 
 **Peripheral devices:** Hardware components that are attached and controlled by the computer system
 **Permissions:** The type of access granted for a file or directory
 **Primary key:** A column where every row has a unique entry
