@@ -39,6 +39,7 @@
 
 ## G
 **Graphical user interface (GUI):** A user interface that uses icons on the screen to manage different tasks on the computer. Basic GUI components include Start menu, Task bar, Desktop with icons and shortcuts
+**grep:** Searches a specified file and returns all lines in the file containing a specified string
 
 ## H
 **Hard drive:** A hardware component used for long-term memory
