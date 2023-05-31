@@ -28,6 +28,7 @@
 **Parent Distributions:** Red Hat Enterprise Linux (CentOS), Slackware (SUSE), Debian (Ubuntu and KALI LINUX)
 
 ## E
+**Echo:** A Linux command tha outputs a specified string of text
 **Exclusive operator:** An operator that does not include the value of comparison
 
 ## F
@@ -93,11 +94,11 @@
 **Root user (or superuser):** A user with elevated privileges to modify the system
 
 ## S
-**Shell:** The command-line interpreter. It processes commands and outputs the results.
+**Shell:** The command-line interpreter. It processes commands and outputs the results. After a user inputs a command into the shell, the shell can return output or an error message to the user. Output is the computer's response to the user's input. An error message occurs when the shell cannot interpret the input.
 **SQL (Structured Query Language):** A programming language used to create, interact with, and request information from a database
 **Standard error:** An error message returned by the OS through the shell
-**Standard input:** Information received by the OS via the command line
-**Standard output:** Information returned by the OS through the shell
+**Standard input:** Information received by the OS via the command line. Standard input is sent to the operating system. 
+**Standard output:** Information returned by the OS through the shell. Standard output is sent from the operating system.
 **String data:** Data consisting of an ordered sequence of characters
 **Syntax:** The rules that determine what is correctly structured in a computing language
 

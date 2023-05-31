@@ -141,3 +141,35 @@ If you complete a lab but your progress hasn’t been tracked on Coursera, you m
 
 ## Key takeaways
 Knowing how to navigate Qwiklabs will be useful as you complete the labs throughout this course. These labs can help you practice what you’ve learned in an interactive environment.
+
+---
+
+# Activity: Install software in a Linux distribution
+## Introduction
+In this lab, you’ll learn how to install and uninstall applications in Linux. You’ll use Linux commands in the Bash shell to complete this lab. You’ll also use the Advanced Package Tool (APT) package manager to install and uninstall the Suricata and tcpdump applications.
+
+## What you’ll do
+You have multiple tasks in this lab:
+
+- Confirm APT is installed in Bash
+
+- Install Suricata with APT
+
+- Uninstall Suricata with APT
+
+- Install tcpdump with APT
+
+- Reinstall Suricata with APT
+
+## Lab instructions
+### Start the lab
+Before you start, you can review the [Resources for completing Linux labs](https://www.coursera.org/learn/linux-and-sql/supplement/uLa2R/resources-for-completing-linux-labs). Then from this page, click Launch App. A Qwiklabs page will open and from that page, click **Start Lab** to begin the activity!
+
+*You may attempt this lab a maximum of 5 times, and you will have 60 minutes to complete this lab during each attempt.*
+
+**End the lab**
+From within the lab, click **End Lab** to end your lab. 
+
+Additionally, sometimes you need to refresh your Coursera page in order for your progress to be registered. If you refresh this page after you complete your lab, the green check mark should appear.
+
+This course uses a third-party app, Activity: Install software in a Linux distribution, to enhance your learning experience. The app will reference basic information like your name, email, and Coursera ID.
