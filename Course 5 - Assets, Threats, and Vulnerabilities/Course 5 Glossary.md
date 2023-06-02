@@ -36,7 +36,7 @@
 **Cross-site scripting (XSS):** An injection attack that inserts code into a vulnerable website or web application
 **Cryptojacking:** A form of malware that installs software to illegally mine cryptocurrencies
 **Cryptographic key:** A mechanism that decrypts ciphertext
-**Cryptography:** The process of transforming information into a form that unintended readers can’t understand
+**Cryptography:** The process of transforming information into a form that unintended readers can’t understand. In cryptography, a cipher is used to hide, or encrypt, information.
 **CVE Numbering Authority (CNA):** An organization that volunteers to analyze and distribute information on eligible CVEs
 
 ## D
