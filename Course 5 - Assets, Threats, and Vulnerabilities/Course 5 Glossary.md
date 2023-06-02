@@ -89,7 +89,11 @@
 
 ## N
 
-**National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF):** A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk
+**National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF):** A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk. Some benefits of the CSF are that it's adaptable to fit the needs of any business, it helps organizations achieve regulatory standards, and it can be used to identify and assess risk. 
+**NIST CSF components:** include Core, Tiers, Profiles. 
+**NIST CSF core:** The five NIST Cybersecurity Framework (CSF) core functions are identify, protect, detect, respond, and recover. The core is a simplified version of the functions or duties of a security plan. Think of these functions as a checklist for reducing security risk.
+**NIST CSF Tiers:** Tiers range from Level-1 to Level-4. Level-1, or passive, indicates a function is reaching bare minimum standards. Level-4, or adaptive, is an indication that a function is being performed at an exemplary standard.
+**NIST CSF Profiles:** These provide insight into the current state of a security plan. One way to think of profiles is like photos capturing a moment in time. Comparing photos of the same subject taken at different times can provide useful insights.
 **Non-repudiation:** The concept that the authenticity of information can’t be denied
 
 ## O
@@ -107,6 +111,7 @@
 **Potentially unwanted application (PUA):** A type of unwanted software that is bundled in with legitimate programs which might display ads, cause device slowdown, or install other software
 **Prepared statement:** A coding technique that executes SQL statements before passing them onto the database
 **Principle of least privilege:** The concept of granting only the minimal access and authorization required to complete a task or function
+**Privacy regulations:** General Data Protection Regulation (GDPR), Payment Card Industry Data Security Standard (PCI DSS), and Health Insurance Portability and Accountability Act (HIPAA) are notable privacy regulations that influence how organizations approach their information security.
 **Procedures:** Step-by-step instructions to perform a specific security task
 **Protected health information (PHI):** Information that relates to the past, present, or future physical or mental health or condition of an individual
 **Public key infrastructure (PKI):** An an encryption framework that secures the exchange of online information
@@ -121,6 +126,7 @@
 **Ransomware:** Type of malicious attack where attackers encrypt an organization’s data and demand payment to restore access
 **Regulations:** Rules set by a government or other authority to control the way something is done
 **Reflected XSS attack:** An instance when malicious script is sent to a server and activated during the server’s response
+**Restricted assets:** are often highly sensitive and considered need-to-know.
 **Risk:** Anything that can impact confidentiality, integrity, or availability of an asset
 **Rootkit:** Malware that provides remote, administrative access to a computer
 
@@ -130,8 +136,9 @@
 **Scareware:** Malware that employs tactics to frighten users into infecting their device
 **Security assessment:** A check to determined how resilient current security implementations against threats
 **Security audit:** A review of an organization's security controls, policies, and procedures against a set of expectations
-**Security controls:** Safeguards designed to reduce specific security risks
+**Security controls:** Safeguards designed to reduce specific security risks. Types of security controls include Technical, Operational, Managerial. Security controls should be designed with the principle of least privilege in mind. When they are, they rely on differentiating between data owners and data custodians. Categories of **security controls include technical, operational, and managerial**. Technical controls include the technologies used to protect assets. Operational controls relate to maintaining the day-to-day security environment. And managerial controls are centered around how technical and operational controls reduce risk.
 **Security hardening:** The process of strengthening a system to reduce its vulnerability and attack surface
+**Security plans:** include three basic elements: policies, standards, and procedures. Policies are a set of rules that reduce risk and protect information. Standards are references that inform how to set policies. Procedures are step-by-step instructions for performing a security task. Security plans address risks such as damage to assets, loss of information, and disclosure of data.
 **Security risk planning:** involves the analysis of three elements: assets, threats, and vulnerabilities. An asset is an item perceived as having value to an organization, such as a cash register and the money inside it.
 **Separation of duties:** The principle that users should not be given levels of authorization that would allow them to misuse a system
 **Session:** A sequence of network HTTP basic auth requests and responses associated with the same user

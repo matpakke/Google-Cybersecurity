@@ -108,3 +108,39 @@ Be sure to include the following elements in your completed activity:
 - 1–2 notes on network access
 
 - A sensitivity classification
+
+---
+
+# Activity Exemplar: Classify the assets connected to a home network
+Here is a completed exemplar along with an explanation of how the exemplar fulfills the expectations for the activity. 
+
+
+## Completed Exemplar
+
+To review the exemplar for this course item, click the link and select Use Template. 
+
+Link to exemplar: [Home asset inventory exemplar](https://docs.google.com/spreadsheets/d/1kdMs5ejteq9ZyH9j4pdvSO2kSOVGeS5hKa4OWGrvlCU/template/preview#gid=0)
+
+## Assessment of Exemplar
+
+Compare the exemplar to your completed asset inventory. Review your work using each of the criteria in the exemplar. What did you do well? Where can you improve? Use your answers to these questions to guide you as you continue to progress through the course. 
+
+Note: The exemplar represents one possible way to complete the activity. Yours will likely differ in certain ways. What’s important is that your asset inventory lists the common characteristics of network connected devices and evaluates them based on their level of sensitivity. 
+
+
+The exemplar uses detail from the given scenario and adheres to the following guidelines:
+
+- Identify 3 devices on the home network
+
+- List network access, owner, and location details for each device
+
+- Include 1–2 notes on network access
+
+- Classify each asset based on level of sensitivity
+
+The exemplar only lists devices with network access because that fits within the scope of this scenario. However, asset inventories might include non-network devices. For example, a homeowner might also keep track of physical assets like a safe or digital assets like family videos.
+
+Classifying assets based on their level of importance can be subjective. Much of asset classification depends on identifying an asset's owner, their location, and other important characteristics. This information should be evaluated before determining who should have access to an asset and what they are authorized to do. Remember, classification helps determine the level of impact an asset can have on a business if it were disclosed, altered, or destroyed.
+
+## Key Takeaways
+Having an inventory of devices on your home network is a useful way to protect your personal assets. It’s also a useful artifact that you can show to prospective employers when interviewing for security analyst positions. Resources like this demonstrate your security mindset and ability to think critically about asset vulnerabilities.
