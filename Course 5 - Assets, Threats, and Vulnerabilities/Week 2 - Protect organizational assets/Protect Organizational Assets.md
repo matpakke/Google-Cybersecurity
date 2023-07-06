@@ -99,7 +99,7 @@ In general, the data lifecycle has five stages. Each describe how data flows thr
 
 - Destroy
 
-![Five stages of the data lifecycle: collection, storage, usage, archival, and destruction.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Sx9FANHTQYK_Emc4x9cBsA_4dad354c13cc4354b9caef4a1b05d2f1_CS_R-091_ive-stages-of-the-data-lifecycle.png?expiry=1686009600000&hmac=QzEUx9piDbZJWD6r22fxj74djVqJAPL_Pik9bNoov_I)
+![Five stages of the data lifecycle: collection, storage, usage, archival, and destruction.](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Sx9FANHTQYK_Emc4x9cBsA_4dad354c13cc4354b9caef4a1b05d2f1_CS_R-091_ive-stages-of-the-data-lifecycle.png?expiry=1688774400000&hmac=DOTi4UyUYKntjd1gx89kT_cvU8d7wSzFofqUgorcM_c)
 
 Protecting information at each stage of this process describes the need to keep it accessible and recoverable should something go wrong.
 
@@ -225,7 +225,7 @@ Previously, you learned these terms:
 
 - **Encryption**: the process of converting data from a readable format to an encoded format
 
-- **Public key infrastructure** (PKI):  an encryption framework that secures the exchange of online information
+- **Public key infrastructure (PKI)**:  an encryption framework that secures the exchange of online information
 
 - **Cipher**: an algorithm that encrypts information
 
